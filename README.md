@@ -2,8 +2,8 @@
 
 - I'm an aspiring Data Scientist with prior experience in MERN Stack Develoment.
      - 🔭 I am currently working on **World-Bank-Data set and Corona Virus Predicition projects**
-     - ✨ Polishing my Machine Learning, Deep Learning skills.
-     -  💬 I’m looking to collaborate on Projects that are Challanging and Innovative,
+     - ✨ Polishing my Machine Learning, Deep Learning and data science skills.
+     - 💬 I’m looking to collaborate on Projects that are Challanging and Innovative,
      - 💬 I’m looking to collaborate on Projects that are Challanging and Innovative,
      - 📫 reach me out on gmail
      - ⚡ I love playing games, reading novels and ameliorating my skill sets.
@@ -24,6 +24,8 @@
 
 #### Contact
 
-<a href = "www.gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+- <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />:**rishabh.sharma1103@gmail.com**
+- <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>: **https://www.linkedin.com/in/rishabh-sharma-06b4a3188/**
+
 
      

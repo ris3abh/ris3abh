@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Rishabh Sharma
+# Hi there 👋 I'm Rishabh Sharma
 
 - I'm an aspiring Data Scientist with prior experience in MERN Stack Develoment.
      - 🔭 I am currently working on **World-Bank-Data set and Corona Virus Predicition projects**
@@ -8,7 +8,7 @@
      - 📫 reach me out on gmail /Linkedin
      - ⚡ I love playing games, reading novels and ameliorating my skill sets.
 
-#### My technical Skills
+# My technical Skills
 
 **Languages :**
 

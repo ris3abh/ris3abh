@@ -17,6 +17,8 @@
 **Data Science Technologies:**
             
  <img alt="NumPy" src="https://img.shields.io/badge/numpy-%23013243.svg?&style=for-the-badge&logo=numpy&logoColor=white" />    <img alt="Pandas" src="https://img.shields.io/badge/pandas-%23150458.svg?&style=for-the-badge&logo=pandas&logoColor=white" />  <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?&style=for-the-badge&logo=TensorFlow&logoColor=white" />  <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?&style=for-the-badge&logo=PyTorch&logoColor=white" />  <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-%23F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" />
+- Some other Data Science Technologies.
+     - **Seaborn ,scikit-learn ,Matplotlib ,Tableau**   
  
 **Frameworks:**
            
@@ -26,7 +28,7 @@
 
 
 - <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-     - rishabh.sharma1103@gmail.com
+   rishabh.sharma1103@gmail.com
 - <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
-     - https://www.linkedin.com/in/rishabh-sharma-06b4a3188/
+   https://www.linkedin.com/in/rishabh-sharma-06b4a3188/
      

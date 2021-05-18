@@ -1,6 +1,10 @@
 ### Hi there 👋 I'm Rishabh Sharma
 I'm an aspiring Data Scientist with prior experience in MERN Stack Develoment.
 
+- Bullet list
+     - Nested bullet
+           - Sub-nested bullet etc
+      - Bullet list item 2
 🔭 I am currently working on **World-Bank-Data set and Corona Virus Predicition projects**
 
 ✨ Polishing my Machine Learning, Deep Learning skills.

@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi there 👋 I'm Rishabh Sharma
+I'm an aspiring Data Scientist with prior experience in MERN Stack Develoment.
 
-<!--
-**ris3abh/ris3abh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 I am currently working on **World-Bank-Data set and Corona Virus Predicition projects**
 
-Here are some ideas to get you started:
+✨ Polishing my Machine Learning, Deep Learning skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ 💬 I’m looking to collaborate on Projects that are Challanging and Innovative,
+ 📫 reach me out on gmail: **rishabh.shaarma1103@gmail.com**
+ 
+ ⚡ I love playing games, reading novels and augmeenting my skill sets
+
+
+Imported the Github Badges from here

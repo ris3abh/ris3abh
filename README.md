@@ -4,7 +4,6 @@
      - 🔭 I am currently working on **World-Bank-Data set and Corona Virus Predicition projects**
      - ✨ Polishing my Machine Learning, Deep Learning and data science skills.
      - 💬 I’m looking to collaborate on Projects that are Challanging and Innovative,
-     - 💬 I’m looking to collaborate on Projects that are Challanging and Innovative,
      - 📫 reach me out on gmail /Linkedin
      - ⚡ I love playing games, reading novels and ameliorating my skill sets.
 

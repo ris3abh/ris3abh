@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Rishabh Sharma
+# <h1 align="center">Hi there <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width=35 height=35>, I'm Rishabh!</h1>
 
 - I'm an aspiring Data Scientist with prior experience in MERN Stack Develoment.
      - 🔭 I am currently working on **World-Bank-Data set and Corona Virus Predicition projects**

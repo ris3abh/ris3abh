@@ -5,7 +5,7 @@
      - ✨ Polishing my Machine Learning, Deep Learning and data science skills.
      - 💬 I’m looking to collaborate on Projects that are Challanging and Innovative,
      - 📫 reach me out on gmail /Linkedin
-     - ⚡ I love playing games, reading novels and ameliorating my skill sets.
+     - ⚡ I love playing games, reading novels and augmenting my skill sets.
 
 # My technical Skills
 

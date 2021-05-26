@@ -30,6 +30,6 @@
 - <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/> **https://www.linkedin.com/in/rishabh-sharma-06b4a3188/**
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ris3abh&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Rishabh's GitHub stats](https://github-readme-stats.vercel.app/api?username=ris3abh&show_icons=true&theme=radical)
 
-  
 

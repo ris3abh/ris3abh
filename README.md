@@ -1,11 +1,11 @@
 # <h1>Hi there <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width=40 height=40>, I'm Rishabh!</h1>
 
 - I'm an aspiring Data Scientist with prior experience in MERN Stack Develoment.
-     - 🔭 I am currently working on **World-Bank-Data set and Corona Virus Predicition projects**
+     - 🔭 I am currently learning **Data Engineering and Big Data**
      - ✨ Polishing my Machine Learning, Deep Learning and data science skills.
      - 💬 I’m looking to collaborate on Projects that are Challanging and Innovative,
      - 📫 reach me out on gmail /Linkedin
-     - ⚡ I love playing games, reading novels and improving my skills.
+     - ⚡ I love playing games, reading novels, mangas and coding.
 
 # My technical Skills
 

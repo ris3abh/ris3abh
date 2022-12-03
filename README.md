@@ -1,7 +1,7 @@
 # <h1>Hi there <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width=40 height=40>, I'm Rishabh!</h1>
 
 - I'm an aspiring Data Scientist with prior experience in MERN Stack Develoment.
-     - 🔭 I am currently learning **Data Engineering and Big Data**
+     - 🌱 I am currently learning **Data Engineering and Big Data**
      - ✨ Polishing my Machine Learning, Deep Learning and data science skills.
      - 💬 I’m looking to collaborate on Projects that are Challanging and Innovative,
      - 📫 reach me out on gmail /Linkedin

@@ -30,4 +30,6 @@
 - Linkedin: **https://www.linkedin.com/in/rishabh-sharma-06b4a3188/**
 
 
+![Rishabh's GitHub stats](https://github-readme-stats.vercel.app/api?username=ris3abh&show_icons=true&theme=radical)
+
 

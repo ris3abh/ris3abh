@@ -7,6 +7,12 @@
      - 📫 reach me out on gmail /Linkedin
      - ⚡ I love playing games, reading novels, mangas and coding.
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/fky2015/fky2015/raw/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/fky2015/fky2015/raw/output/github-snake.svg">
+  <img alt="snk" src="https://github.com/fky2015/fky2015/raw/output/github-snake.svg">
+</picture>
+
 # My technical Skills
 
 ### **Languages :**

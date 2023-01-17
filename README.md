@@ -9,10 +9,6 @@
 
 # My technical Skills
 
-[![loveress01@outlook.com](https://img.shields.io/badge/email-loveress01@outlook.com-blueviolet?style=flat-square&logo=microsoft-outlook&color=0078d4)][email]
-[![https://blog.fkynjyq.com](https://img.shields.io/badge/blog-https://blog.fkynjyq.com-blueviolet?style=flat-square&logo=vercel&color=000000)][website]
-[![@fkynjyq](https://img.shields.io/badge/twitter-@fkynjyq-blueviolet?style=flat-square&logo=twitter&color=1DA1F2)][twitter]
-
 ### **Languages :**
 
 <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>  <img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white"/>  <img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/>  <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>

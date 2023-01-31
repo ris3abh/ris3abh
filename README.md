@@ -46,11 +46,6 @@
 </a>
 </div>
 
-
-<div align="center">
-     ![Rishabh's GitHub stats](https://github-readme-stats.vercel.app/api?username=ris3abh&show_icons=true&theme=radical)
-</div>
-
 <div align = "center">Visit me @ my <a href = "ris3abh.github.io" target="_blank">Personal website</a></div>
 
 

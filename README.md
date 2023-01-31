@@ -44,10 +44,14 @@
 <a href="https://github.com/ris3abh" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
+<a href = "ris3abh.github.io" target="_blank">
+ Personal website
+</a>
 </div>
 
 
-![Rishabh's GitHub stats](https://github-readme-stats.vercel.app/api?username=ris3abh&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ris3abh&langs_count=8)](https://github.com/ris3abh/github-readme-stats)
+<div alighn="center">
+     ![Rishabh's GitHub stats](https://github-readme-stats.vercel.app/api?username=ris3abh&show_icons=true&theme=radical)
+</div>
 
 

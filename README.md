@@ -44,6 +44,6 @@
 </a>
 </div>
 
-<div align = "center">Visit me @ my <a href = "https://ris3abh.github.io/" target="_blank">Personal website</a></div>
+<div align = "center">Visit me @ my <a href = "https://rishx11.vercel.app/" target="_blank">Personal website</a></div>
 
 

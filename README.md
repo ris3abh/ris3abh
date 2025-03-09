@@ -1,11 +1,31 @@
 # <h1>Hi there <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width=40 height=40>, I'm Rishabh!</h1>
 
-- I'm a Data Scientist with prior experience in MERN Stack Development.
-     - 🌱 I am currently working on developing and deploying **AI Agents** and **Multi-Agentic Systems**
-     - ✨ Polishing my Machine Learning, Deep Learning, and data science skills.
-     - 💬 I’m looking to collaborate on Projects that are challenging and Innovative,
-     - 📫 reach me out on Gmail /Linkedin
-     - ⚡ I love playing games, reading novels, mangas and coding.
+👨‍💻 Data Scientist with strong background in MERN Stack Development and expertise in building Machine Learning and Deep Learning models. Currently deepening my expertise in developing and deploying AI Agents and Multi-Agentic Systems.
+
+Skills
+- 📊 Data Analysis & Visualization
+- 🤖 AI Agent Development
+- 🤝 Multi-Agent Systems
+- 🧠 Deep Learning Architectures
+- 📡 Full-Stack Development (MERN Stack)
+- 📦 Model Deployment & Production
+
+Projects I'm Passionate About
+- 🚀 Innovative AI applications
+- 🤖 Autonomous systems
+- 📈 Predictive analytics solutions
+- 🎨 Generative AI models
+- 🌐 Scalable data platforms
+
+Let's Connect
+📩 Email: [rishabh.sharma1103@gmail.com]
+[in] LinkedIn: [https://www.linkedin.com/in/rishabhsharma1104/]
+
+When I'm Not Coding
+- 🎮 Gaming sessions with friends
+- 📖 Deep into novels and manga series
+- 🧩 Solving complex coding challenges
+- 🎧 Exploring new music genres
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/fky2015/fky2015/raw/output/github-snake-dark.svg">
@@ -13,7 +33,7 @@
   <img alt="snk" src="https://github.com/fky2015/fky2015/raw/output/github-snake.svg">
 </picture>
 
-# My technical Skills
+# My Technical Skills
 
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="60" />  

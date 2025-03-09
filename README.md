@@ -18,8 +18,10 @@ Projects I'm Passionate About
 - 🌐 Scalable data platforms
 
 Let's Connect
-📩 Email: [rishabh.sharma1103@gmail.com]
-[in] LinkedIn: [https://www.linkedin.com/in/rishabhsharma1104/]
+📩 Email: rishabh.sharma1103@gmail.com
+
+
+LinkedIn: [https://www.linkedin.com/in/rishabhsharma1104/]
 
 When I'm Not Coding
 - 🎮 Gaming sessions with friends

@@ -2,7 +2,8 @@
 
 👨‍💻 Data Scientist with strong background in MERN Stack Development and expertise in building Machine Learning and Deep Learning models. Currently deepening my expertise in developing and deploying AI Agents and Multi-Agentic Systems.
 
-Skills
+### Skills
+
 - 📊 Data Analysis & Visualization
 - 🤖 AI Agent Development
 - 🤝 Multi-Agent Systems
@@ -10,14 +11,15 @@ Skills
 - 📡 Full-Stack Development (MERN Stack)
 - 📦 Model Deployment & Production
 
-Projects I'm Passionate About
+### Projects I'm Passionate About
+
 - 🚀 Innovative AI applications
 - 🤖 Autonomous systems
 - 📈 Predictive analytics solutions
 - 🎨 Generative AI models
 - 🌐 Scalable data platforms
 
-Let's Connect
+### Let's Connect
 📩 Email: rishabh.sharma1103@gmail.com
 
 
